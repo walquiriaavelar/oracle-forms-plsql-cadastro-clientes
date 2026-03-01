@@ -1,0 +1,6 @@
+INSERT INTO TREINAMENTO.TB_CLIENTE (SQL_INSERT) VALUES
+	 ('INSERT INTO TREINAMENTO.TB_CLIENTE (NOME, EMAIL, CEP, LOGRADOURO, BAIRRO, CIDADE, UF, ATIVO) VALUES (''Walquiria Avelar'', ''walquiriamourao@gmail.com'', ''89042284'', ''Rua Amanda Isleb, 108'', ''Velha Central'', ''Blumenau'', ''SC'', 1);'),
+	 ('INSERT INTO TREINAMENTO.TB_CLIENTE (NOME, EMAIL, CEP, LOGRADOURO, BAIRRO, CIDADE, UF, ATIVO) VALUES (''Leandro Compolt'', ''leandro.compolt@haco.com.br'', ''89010025'', ''Rua XV de Novembro'', ''Centro'', ''Blumenau'', ''SC'', 1);'),
+	 ('INSERT INTO TREINAMENTO.TB_CLIENTE (NOME, EMAIL, CEP, LOGRADOURO, BAIRRO, CIDADE, UF, ATIVO) VALUES (''Marcia Ribeiro'', ''marcinhagribeiro@hotmail.com'', ''01310930'', ''Av. Paulista'', ''Bela Vista'', ''Sao Paulo'', ''SP'', 1);'),
+	 ('INSERT INTO TREINAMENTO.TB_CLIENTE (NOME, EMAIL, CEP, LOGRADOURO, BAIRRO, CIDADE, UF, ATIVO) VALUES (''Vanessa Avelar'', ''avelarvanessa@hotmail.com'', ''20040020'', ''Rua da Assembleia'', ''Centro'', ''Rio de Janeiro'', ''RJ'', 1);'),
+	 ('INSERT INTO TREINAMENTO.TB_CLIENTE (NOME, EMAIL, CEP, LOGRADOURO, BAIRRO, CIDADE, UF, ATIVO) VALUES (''Daniel Carlos'', ''daniel.samtoss@gmail.com'', ''30140071'', ''Av. Afonso Pena'', ''Centro'', ''Belo Horizonte'', ''MG'', 0);');
